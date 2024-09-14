@@ -1,6 +1,7 @@
 <?php
 function saludo() {
-    return "¡Hola, mi gente vamonos de party!";
+    return "¡Hola, mi gente vamonos de party que estamos sabiendo 
+hacer esto y en nada me voy a suiza a ganar pasta en Master!";
 }
 
 function numeroAleatorio($min, $max) {
