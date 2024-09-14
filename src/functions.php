@@ -1,8 +1,9 @@
 <?php
 function saludo() {
-<<<<<<< HEAD
+
     return "¡Hola, mi gente vamonos de party que estamos sabiendo 
-hacer esto y en nada me voy a suiza a ganar pasta en Master!";
+hacer esto y en nada me voy a suiza a ganar pasta en Master en 
+funcionabilidad-2!";
 
 }
 
